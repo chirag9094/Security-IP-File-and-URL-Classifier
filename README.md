@@ -8,3 +8,6 @@ The Security-IP-File-and-URL-Classifier project is a deep learning-based tool de
 2. Deep Learning Models: Implements state-of-the-art deep learning architectures and techniques tailored to the unique characteristics of security-related data.  
 3. Custom Dataset: Trained on a meticulously curated dataset comprising a diverse range of malicious and benign samples, ensuring robust performance in real-world scenarios.
 4. High Accuracy: Achieves an overall accuracy of 96.7%, validated through rigorous testing and evaluation.
+
+## Output
+<img source="output/url.png">
