@@ -10,4 +10,4 @@ The Security-IP-File-and-URL-Classifier project is a deep learning-based tool de
 4. High Accuracy: Achieves an overall accuracy of 96.7%, validated through rigorous testing and evaluation.
 
 ## Output
-<img source="output/file.png">
+<img src="output/file.png">
